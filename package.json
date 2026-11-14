@@ -1,0 +1,12 @@
+{
+  "name": "rspack-prefer-absolute-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node repro.mjs"
+  },
+  "dependencies": {
+    "@rspack/core": "2.3.2",
+    "webpack": "5.112.2"
+  }
+}
